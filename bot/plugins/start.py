@@ -19,9 +19,9 @@ async def start(c, m, cb=False):
 
     BUTTONS = [[
         InlineKeyboardButton("My Father 🧔", url=f"https://t.me/{username}"),
-        InlineKeyboardButton("Updates Channel 🔰", url="https://t.me/s_bots")
+        InlineKeyboardButton("Backup Channel 🔰", url="https://t.me/+FcsqT7u8gt1mMTdh")
         ],[
-        InlineKeyboardButton("Movie Group😎", url="https://t.me/new_cinema_mall")
+        InlineKeyboardButton("Movie Group😎", url="https://t.me/joinchat/xHmYlSq7P05kNTQx")
         ],[
         InlineKeyboardButton("Help ⁉️", callback_data="help"),
         InlineKeyboardButton("Settings ⚙", callback_data="set+settings")
