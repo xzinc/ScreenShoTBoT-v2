@@ -8,7 +8,7 @@ For now it is not suspended by heroku but dont know when it gonna suspended.
 Since i had removed host bot will download the entire file and then generate screenshots
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=ScreenShoTBoT-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/StillAliveTG/ScreenShoTBoT-v2)
 
 ### Prerequisites
 
